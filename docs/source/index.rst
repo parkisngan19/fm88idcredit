@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+FM88 idcredit
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Sân chơi `fm88 <https://idcredit.org/>`_ là một trong những nền tảng chơi game trực tuyến hàng đầu hiện nay, nổi bật với nhiều ưu đãi hấp dẫn và dịch vụ chăm sóc khách hàng chuyên nghiệp. Tại Fm88 idcredit, người chơi có thể tham gia vào các trò chơi đa dạng từ thể thao, casino trực tuyến cho đến các game slot phong phú. Với giao diện thân thiện và dễ sử dụng, fm88 mang đến trải nghiệm tốt nhất cho người dùng, giúp họ cảm thấy thoải mái và an tâm khi tham gia chơi game đổi thưởng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 49 Đ. Gò Xoài, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0755221369. 
 
-Contents
---------
+Email: info@idcredit.org. 
 
-.. toctree::
+Website: https://idcredit.org/ 
 
-   usage
-   api
+#fm88 #fm88idcredit #idcredit #fm88idcreditorg #linkfm88
